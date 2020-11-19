@@ -11,11 +11,11 @@
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
+📷 [whatsapp][whatsapp] **|** 
 👔 [linkedin][linkedin]
 
 
 [website]: http://okomojacob.herokuapp.com/
 [twitter]: https://twitter.com/okomojacob
-[instagram]: https://instagram.com/jamesqquick
+[whatsapp]: https://api.whatsapp.com/send?phone=254705583483&text=Hello%20Jacob%20and%20how%20are%20you%20...
 [linkedin]: https://www.linkedin.com/in/okomo-jacob-622b86164
