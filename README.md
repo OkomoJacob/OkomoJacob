@@ -8,3 +8,17 @@
 - 💬 Ask me about Anything
 - 📫 For more information about me(And a whole lot of shenanigans) find me on [My Personal Website](http://okomojacob.herokuapp.com/)
 - ⚡ Fun fact I can Play Football for 2Hrs+
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+🎥 [twitch][twitch] **|** 
+📦 [npm][npm] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+[website]: https://jamesqquick.com
+[twitter]: https://twitter.com/jamesqquick
+[instagram]: https://instagram.com/jamesqquick
+[linkedin]: https://linkedin.com/in/jamesqquick
