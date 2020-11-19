@@ -15,7 +15,7 @@
 👔 [linkedin][linkedin]
 
 
-[website]: https://jamesqquick.com
-[twitter]: https://twitter.com/jamesqquick
+[website]: http://okomojacob.herokuapp.com/
+[twitter]: https://twitter.com/okomojacob
 [instagram]: https://instagram.com/jamesqquick
 [linkedin]: https://linkedin.com/in/jamesqquick
