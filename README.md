@@ -18,4 +18,4 @@
 [website]: http://okomojacob.herokuapp.com/
 [twitter]: https://twitter.com/okomojacob
 [instagram]: https://instagram.com/jamesqquick
-[linkedin]: https://linkedin.com/in/jamesqquick
+[linkedin]: https://www.linkedin.com/in/okomo-jacob-622b86164
