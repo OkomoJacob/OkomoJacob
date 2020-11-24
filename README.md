@@ -1,4 +1,4 @@
-# Hello, [Jacob OKello Okomo](http://okomojacob.herokuapp.com/) here 👋 
+# Hello, [Jacob Okello Okomo](http://okomojacob.herokuapp.com/) here 👋 
 ## I'm a male 😄 Young Web Developer and a Machine Learning Enthusiats.
 
 Python | JavaScript | POSTGRESQL | HTML | CSS | Linux
@@ -78,6 +78,7 @@ This is list of my upcoming blogs in my [Personal website](http://okomojacob.her
  
  
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
 [twitter]: https://twitter.com/okomojacob
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/okomo-jacob-622b86164/
