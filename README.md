@@ -2,7 +2,7 @@
 ## I'm a male 😄 Young Web Developer and a Machine Learning Enthusiats.
 
 Python | JavaScript | POSTGRESQL | HTML | CSS | Linux
-![alt text](https://github.com/OkomoJacob/My_Portfolio/blob/master/images/my_web_yllw.png)
+![alt text](https://github.com/OkomoJacob/My_Portfolio/blob/master/images/profileNew.PNG)
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
   
