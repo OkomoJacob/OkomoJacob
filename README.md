@@ -5,7 +5,7 @@
   <b><i>Python | JavaScript | POSTGRESQL | HTML | CSS | Linux.</i></b>
  
  <p align="center">
-  <img width="700" height="100" src="https://github.com/OkomoJacob/My_Portfolio/blob/master/images/profileNew.PNG">
+  <img src="https://github.com/OkomoJacob/My_Portfolio/blob/master/images/profileNew.PNG">
 </p>
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
