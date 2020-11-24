@@ -4,7 +4,9 @@
 <p align="center">
   <b><i>Python | JavaScript | POSTGRESQL | HTML | CSS | Linux.</i></b>
  
-![alt text](https://github.com/OkomoJacob/My_Portfolio/blob/master/images/profileNew.PNG)
+ <p align="center">
+  <img width="630" height="450" src="(https://github.com/OkomoJacob/My_Portfolio/blob/master/images/profileNew.PNG">
+</p>
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
   
