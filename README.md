@@ -1,7 +1,9 @@
 # Hello, [Jacob Okello Okomo](http://okomojacob.herokuapp.com/) here 👋 
 ## I'm a male 😄 Young Web Developer and a Machine Learning Enthusiats.
 
-Python | JavaScript | POSTGRESQL | HTML | CSS | Linux
+<p align="center">
+  <b><i>Python | JavaScript | POSTGRESQL | HTML | CSS | Linux.</i></b>
+ 
 ![alt text](https://github.com/OkomoJacob/My_Portfolio/blob/master/images/profileNew.PNG)
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
@@ -23,7 +25,8 @@ Python | JavaScript | POSTGRESQL | HTML | CSS | Linux
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-<br />
+<hr />
+
 ---
 
 ### Languages and Tools I'm Learnig:
