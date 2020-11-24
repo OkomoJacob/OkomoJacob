@@ -3,7 +3,6 @@
 
 <p align="center">
   <b><i>Python | JavaScript | POSTGRESQL | HTML | CSS | Linux.</i></b>
- 
  <p align="center">
   <img src="https://github.com/OkomoJacob/My_Portfolio/blob/master/images/profileNew.PNG">
 </p>
