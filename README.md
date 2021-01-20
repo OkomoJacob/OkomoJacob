@@ -54,7 +54,7 @@
 - 📫 For more information about me(And a whole lot of shenanigans) find me on [My Personal Website](http://okomojacob.herokuapp.com/)
 - ⚡ Fun fact I can Play Football for 2Hrs+ and still beat you in Chess!.
 
-### My &nbsp;❤️&nbsp; for Playing Music is Weired 🎧
+### 🎧 Music is more than just sound to me, it's a feeling &nbsp;❤️&nbsp;.
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <table><tr><td valign="top" width="50%">
