@@ -1,4 +1,4 @@
-# Hello, [Jacob Okello Okomo](http://okomojacob.herokuapp.com/) here 👋 
+# Hello, [Jacob Okello Okomo](https://okomojacob.herokuapp.com/) here 👋 
 ## I'm a male 😄 Young Web Developer and a Machine Learning Enthusiats.
 
 <p align="center">
@@ -45,13 +45,13 @@
  <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
  
 * Primary coding language: Python.
-- 🔭 I’m currently working on a number of personal and collaborative projects,which mainly include the most of my current repos. and [My Personal Website](http://okomojacob.herokuapp.com/) 
+- 🔭 I’m currently working on a number of personal and collaborative projects,which mainly include the most of my current repos. and [My Personal Website](https://okomojacob.herokuapp.com/) 
 - 🌱 I’m currently learning a tone of hefty new things, Machine Learning, Computer Vision, Web. Developement, Spatial Data Science, Docker, Kubernetes. If you can share me any new learning materials on the same, I'll be glad to check them out ASAP 😄.
 - 👯 I’m looking to collaborate with a number of junior and experienced Developers in finishing the AGGES website and other pending uncompleted projects
 - 🤔 I’m looking for help in REACT.JS, Django, TensorFlow, P5.js to make me a competetive programmer.
 
 - 💬 You can ask me about anything 😄, Deep Learning, WebDev, ML, Js for GIS, GIS I'll be happy to help.
-- 📫 For more information about me(And a whole lot of shenanigans) find me on [My Personal Website](http://okomojacob.herokuapp.com/)
+- 📫 For more information about me(And a whole lot of shenanigans) find me on [My Personal Website](https://okomojacob.herokuapp.com/)
 - ⚡ Fun fact I can Play Football for 2Hrs+ and still beat you in Chess!.
 
 ---
@@ -66,19 +66,19 @@
 <table><tr><td valign="top" width="50%">
   
 ### My Digital Garden 🌱
-You can find my blogs at my [My Personal Website](http://okomojacob.herokuapp.com/).
-- [Batch Gradient Descent: All You need to know](http://okomojacob.herokuapp.com/#blog) 
-- [The Ultimate Python Resource hub](http://okomojacob.herokuapp.com/#blog)
-- [Web Developement in 2020/2021 1.0: All you need to know](http://okomojacob.herokuapp.com/#services)
+You can find my blogs at my [My Personal Website](https://okomojacob.herokuapp.com/).
+- [Batch Gradient Descent: All You need to know](https://okomojacob.herokuapp.com/#blog) 
+- [The Ultimate Python Resource hub](https://okomojacob.herokuapp.com/#blog)
+- [Web Developement in 2020/2021 1.0: All you need to know](https://okomojacob.herokuapp.com/#services)
 - [You are Important & so is your Mental Health!](https://ayushirawat.com/you-are-important-and-so-is-your-mental-health)
 </td>
 <td valign="top" width="45%">
   
 ### The Upcoming Developer Dictionary 🌱
-This is list of my upcoming blogs in my [Personal website](http://okomojacob.herokuapp.com/):
-- [The Ultimate Machine Learning Resource hub](http://okomojacob.herokuapp.com/)
-- [GitHub CLI 1.0: All you need to know](http://okomojacob.herokuapp.com/)
-- [Mistakes to rectify to become a profitable prgrammer](http://okomojacob.herokuapp.com/)
+This is list of my upcoming blogs in my [Personal website](https://okomojacob.herokuapp.com/):
+- [The Ultimate Machine Learning Resource hub](https://okomojacob.herokuapp.com/)
+- [GitHub CLI 1.0: All you need to know](https://okomojacob.herokuapp.com/)
+- Mistakes to rectify to become a profitable prgramme.
 </td>
  <details>
 <summary>📊 Github Stats</summary>
