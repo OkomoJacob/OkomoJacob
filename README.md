@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=okomojacob&label=PROFILE+VIEWS&color=green)
+![](https://komarev.com/ghpvc/?username=okomojacob&label=Viewers&color=brightgreen)
 
 # Hello, [Jacob Okello Okomo](https://okomojacob.herokuapp.com/) here 👋 
 ## I'm a male 😄 Young Web Developer and a Machine Learning Enthusiats.
