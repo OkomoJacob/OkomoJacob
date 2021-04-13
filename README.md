@@ -6,7 +6,7 @@
 <p align="center">
   <b><i>Python | JavaScript | POSTGRESQL | HTML | CSS | Linux.</i></b>
  <p align="center">
-  <img src="https://github.com/OkomoJacob/My_Portfolio/blob/master/images/profileNew.PNG">
+  <img src="https://github.com/OkomoJacob/OkomoJacob/blob/main/imgs/profileNew.png">
 </p>
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
