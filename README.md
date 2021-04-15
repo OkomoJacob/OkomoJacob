@@ -57,14 +57,9 @@
 
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=okomojacob&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okomojacob&hide=javascript,go,html)
-
-
 ![Okomo Jacob Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=okomojacob&show_icons=true&include_all_commits=true&theme=radical)
 ![Okomo Jacob Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=okomojacob&layout=compact&theme=radical)
-
-![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantoshYadavDev&theme=dracula)
+![Okomo Jacob's github activity graph](https://activity-graph.herokuapp.com/graph?username=SantoshYadavDev&theme=dracula)
 
 ### 🎧 Music is more than just sound to me, it's a feeling &nbsp;❤️&nbsp;.
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
