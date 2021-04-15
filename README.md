@@ -58,8 +58,7 @@
 ---
 
 ![Okomo Jacob Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=okomojacob&show_icons=true&include_all_commits=true&theme=radical)
-![Okomo Jacob Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=okomojacob&layout=compact&theme=radical)
-![Okomo Jacob Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=okomojacob&theme=radicalinclude_all_commits=true)
+![Okomo Jacob Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=okomojacob&show_icons=true&layout=compact&theme=radical)
 
 ![Okomo Jacob's github activity graph](https://activity-graph.herokuapp.com/graph?username=okomojacob&theme=dracula)
 
