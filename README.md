@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=okomojacob&label=Viewers&color=brightgreen)
  
 # Hello, [Jacob Okello Okomo](https://okomojacob.herokuapp.com/) here 👋 
-## I'm a male 😄 Young Web Developer and a Machine Learning Enthusiats.
+## I'm a male 😄 Young Web Developer and a Machine Learning Enthusiast.
 
 <p align="center">
   <b><i>Python | JavaScript | POSTGRESQL | HTML | CSS | Linux.</i></b>
