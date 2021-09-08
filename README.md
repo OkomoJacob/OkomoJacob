@@ -1,5 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=okomojacob&label=Viewers&color=brightgreen)
  
+### He codes and is very good at
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+
 # Hello, [Jacob Okello Okomo](https://okomojacob.herokuapp.com/) here 👋 
 ## I'm a male 😄 Young Web Developer and a Machine Learning Enthusiast.
 
@@ -32,6 +38,12 @@
 ---
 
 ### Languages and Tools I'm Learnig:
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
+
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
