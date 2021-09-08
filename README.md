@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=okomojacob&label=Profile Viewers&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=okomojacob&label=ProfileViewers&color=brightgreen)
  
 ## He codes and is good at
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
