@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=okomojacob&label=Viewers&color=brightgreen)
  
-### He codes and is very good at
+## He codes and is very good at
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 
-# Hello, [Jacob Okello Okomo](https://okomojacob.herokuapp.com/) here 👋 
-## I'm a male 😄 Young Web Developer and a Machine Learning Enthusiast.
+## Hello, [Jacob Okello Okomo](https://okomojacob.herokuapp.com/) here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### I'm a male 😄 Young Web Developer and a Machine Learning Enthusiast.
 
 <p align="center">
   <b><i>Python | JavaScript | POSTGRESQL | HTML | CSS | Linux.</i></b>
@@ -24,11 +24,8 @@
 
 <hr />
 
-### Languages and Tools I use for My WorkFlows:
+### Tools I use for My WorkFlows: 👋 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -53,11 +50,10 @@
 
 <br />
 <hr />
-<h3> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 𝚌𝚘𝚍𝚎𝚛𝚜 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
-<!-- Namaste 🙏 -->
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 𝚌𝚘𝚍𝚎𝚛𝚜 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
  <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
  
-* Primary coding language: Python.
+* Primary coding language: Python, Javascript.
 - 🔭 I’m currently working on a number of personal and collaborative projects,which mainly include the most of my current repos. and [My Personal Website](https://okomojacob.herokuapp.com/) 
 - 🌱 I’m currently learning a tone of hefty new things, Machine Learning, Computer Vision, Web. Developement, Spatial Data Science, Docker, Kubernetes. If you can share me any new learning materials on the same, I'll be glad to check them out ASAP 😄.
 - 👯 I’m looking to collaborate with a number of junior and experienced Developers in finishing the AGGES website and other pending uncompleted projects
@@ -65,7 +61,7 @@
 
 - 💬 You can ask me about anything 😄, Deep Learning, WebDev, ML, Js for GIS, GIS I'll be happy to help.
 - 📫 For more information about me(And a whole lot of shenanigans) find me on [My Personal Website](https://okomojacob.herokuapp.com/)
-- ⚡ Fun fact I can Play Football for 2Hrs+ and still beat you in Chess!.
+- ⚡ Fun fact I can Play Football for 4Hrs+ and still beat you in Chess!.
 
 ---
 
