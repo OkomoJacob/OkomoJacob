@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=okomojacob&label=Viewers&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=okomojacob&label=Profile Viewers&color=brightgreen)
  
-## He codes and is very good at
+## He codes and is good at
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
