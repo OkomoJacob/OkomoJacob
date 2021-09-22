@@ -59,7 +59,7 @@
 - 👯 I’m looking to collaborate with a number of junior and experienced Developers in finishing the AGGES website and other pending uncompleted projects
 - 🤔 I’m looking for help in REACT.JS, Django, TensorFlow, P5.js to make me a competetive programmer.
 
-- 💬 You can ask me about anything 😄, Deep Learning, WebDev, ML, Js for GIS, GIS I'll be happy to help.
+- 💬 You can ask me about anything relevant to😄, Spatial Data Science, WebDev, JavaScript for GIS, WebGIS Developement.  I'll be happy to help.
 - 📫 For more information about me(And a whole lot of shenanigans) find me on [My Personal Website](https://okomojacob.herokuapp.com/)
 - ⚡ Fun fact I can Play Football for 4Hrs+ and still beat you in Chess!.
 
