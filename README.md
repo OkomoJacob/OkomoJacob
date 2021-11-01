@@ -83,13 +83,13 @@
   </tr>
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=okomojacob&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
-<!--     <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=OkomoJacob&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td> -->
+    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=OkomoJacob&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
      
   </tr>   
 </table>
 <table>
   <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=okomojacob&layout=compact"/></td>
+    <td><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=okomojacob&show_icons=true&include_all_commits=true&theme=radical"/></td>
     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okomojacob&langs_count=10&layout=compact&theme=tokyonight"/></td>
   </tr>
 </table>
