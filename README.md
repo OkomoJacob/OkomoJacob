@@ -89,8 +89,8 @@
 </table>
 <table>
   <tr>
-    <td><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=okomojacob&show_icons=true&include_all_commits=true&theme=radical"/></td>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okomojacob&langs_count=10&layout=compact&theme=tokyonight"/></td>
+<!--     <td><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=okomojacob&show_icons=true&include_all_commits=true&theme=radical"/></td> -->
+    <td><img width="900px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okomojacob&langs_count=10&layout=compact&theme=tokyonight"/></td>
   </tr>
 </table>
 
