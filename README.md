@@ -65,19 +65,7 @@
 
 ---
 ## :octocat: OkomoJacob's Coding Statistics
-<!-- <table>
-  <tr>
-    <a href="https://wakatime.com/@031f0010-ed93-450d-86db-77e0f90e1bae"><img src="https://wakatime.com/badge/user/031f0010-ed93-450d-86db-77e0f90e1bae.svg" alt="Total time coded since Jan 30 2020" /></a>
-  </tr>
-  <tr>
-        <td><img width="380px" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=okomojacob&show_icons=true&include_all_commits=true&theme=tokyonight"/></td>
-</table>
-<table>
-  <tr>
-         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okomojacob&langs_count=10&layout=compact&theme=tokyonight"/></td>
-   <tr>
-</table> -->
-  <table>
+ <table>
   <tr>
     <a href="https://wakatime.com/@031f0010-ed93-450d-86db-77e0f90e1bae"><img src="https://wakatime.com/badge/user/031f0010-ed93-450d-86db-77e0f90e1bae.svg" alt="Total time coded since Jul 30 2021" /></a>
   </tr>
@@ -90,7 +78,7 @@
 <table>
   <tr>
 <!--     <td><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=okomojacob&show_icons=true&include_all_commits=true&theme=radical"/></td> -->
-    <td><img width="900px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okomojacob&langs_count=10&layout=compact&theme=tokyonight"/></td>
+    <td><img width="900px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okomojacob&langs_count=10&layout=compact&theme=tokyonight"/></td>
   </tr>
 </table>
 
