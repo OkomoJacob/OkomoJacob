@@ -78,7 +78,7 @@
 <table>
   <tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=okomojacob&layout=compact"/></td>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okomojacob&langs_count=10&layout=compact"/></td>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okomojacob&langs_count=10&layout=compact&theme=tokyonight"/></td>
   </tr>
 </table>
 
