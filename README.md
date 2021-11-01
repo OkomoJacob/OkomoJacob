@@ -80,7 +80,7 @@
 <!--     <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=okomojacob&layout=compact"/></td> -->
     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okomojacob&langs_count=10&layout=compact&theme=tokyonight"/></td>
   </tr>
-</table> -->
+</table>
 
 ![Okomo Jacob Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=okomojacob&show_icons=true&include_all_commits=true&theme=radical)
 <!-- ![Okomo Jacob Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=okomojacob&layout=compact&theme=radical) -->
