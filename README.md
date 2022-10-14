@@ -25,36 +25,36 @@
  
 <br />
 
----
+----
 
 <br>
 
 ### Languages and Tools I'm Learnig:
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<div style="display: inline_block"><br>
+    <img align="center" alt="OkomoJacob-HTML" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="OkomoJacob-CSS" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="OkomoJacob-Sass" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="OkomoJacob-Js" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="OkomoJacob-Ts" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="OkomoJacob-React" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="OkomoJacob-Angular" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
+ <img align="center" alt="OkomoJacob-Node" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;&nbsp;&nbsp;
+ <img align="center" alt="OkomoJacob-MongoDB" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
+ <img align="center" alt="OkomoJacob-postgresql" height="40" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br />
 <hr />
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 𝚌𝚘𝚍𝚎𝚛𝚜 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
  <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
  
-* Primary coding language: Python, Javascript.
+* Primary coding language: Javascript, Python, Dart
 - 🔭 I’m currently working on a number of personal and collaborative projects,which mainly include the most of my current repos. and [My Personal Website](https://okomojacob.herokuapp.com/) 
-- 🌱 I’m currently learning a tone of hefty new things, Machine Learning, Computer Vision, Web. Developement, Spatial Data Science, Docker, Kubernetes. If you can share me any new learning materials on the same, I'll be glad to check them out ASAP 😄.
-- 👯 I’m looking to collaborate with a number of junior and experienced Developers in finishing the AGGES website and other pending uncompleted projects
-- 🤔 I’m looking for help in REACT.JS, Django, TensorFlow, P5.js to make me a competetive programmer.
+- 🌱 I’m currently learning a tone of hefty new things, AngularJS & Django for Web Developement and Flutter for cross-platform Mobile Developement 😄.
+- 👯 I’m looking to collaborate with a anyone to assit me in my AngularJS and Django journey.
+- 🤔 I’m looking for help in Angular, REACT.JS, Django, to make me a competetive programmer.
 
-- 💬 You can ask me about anything relevant to, Spatial Data Science, WebDev, JavaScript for GIS, WebGIS Developement.  I'll be happy 😄 to help.
+- 💬 You can ask me about anything relevant to, Flutter, WebDev, JavaScript, WebGIS Developement.  I'll be happy 😄 to help.
 - 📫 For more information about me(And a whole lot of shenanigans) find me on [My Personal Website](https://okomojacob.herokuapp.com/)
 - ⚡ Fun fact I can Play Football for 4Hrs+ and still beat you in Chess!.
 
