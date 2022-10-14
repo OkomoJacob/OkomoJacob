@@ -15,7 +15,7 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 
-<hr />
+<br />
 
 ### Tools I use for My WorkFlows: 👋 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -24,22 +24,19 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
  
 <br />
-
-----
-
+--
 <br>
 
-### Languages and Tools I'm Learnig:
+### Languages and Tools I use almost daily:
 
 <div style="display: inline_block"><br>
     <img align="center" alt="OkomoJacob-HTML" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="OkomoJacob-CSS" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="OkomoJacob-Sass" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="OkomoJacob-Js" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="OkomoJacob-Ts" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="OkomoJacob-React" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="OkomoJacob-Angular" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
  <img align="center" alt="OkomoJacob-Node" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;&nbsp;&nbsp;
+ <img align="center" alt="OkomoJacob-React" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
  <img align="center" alt="OkomoJacob-MongoDB" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
  <img align="center" alt="OkomoJacob-postgresql" height="40" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
