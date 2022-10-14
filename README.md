@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=okomojacob&label=ProfileViewers&color=brightgreen)
  
-## He codes and is good at
+# 
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 
 ## Hello, [Jacob Okello Okomo](https://okomojacob.herokuapp.com/) here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-### I'm a male 😄 Web and Mobile Developer.
+### I'm Jacob, and I'm addicted to code 😄, and in love with Web and Mobile Developement.
 
 <p align="center">
   <b><i>Python | JavaScript | POSTGRESQL | HTML | CSS | Linux.</i></b>
