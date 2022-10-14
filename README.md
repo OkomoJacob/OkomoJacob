@@ -81,38 +81,6 @@
 
 ![Okomo Jacob's github activity graph](https://activity-graph.herokuapp.com/graph?username=okomojacob&theme=dracula)
 
-### 🎧 Music is more than just sound to me, it's a feeling &nbsp;❤️&nbsp;.
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="OkomoJacob's Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-<table><tr><td valign="top" width="50%">
-  
-### My Digital Garden 🌱
-You can find my blogs at my [My Personal Website](https://okomojacob.herokuapp.com/).
-- [Batch Gradient Descent: All You need to know](https://okomojacob.herokuapp.com/#blog) 
-- [The Ultimate Python Resource hub](https://okomojacob.herokuapp.com/#blog)
-- [Web Developement in 2020/2021 1.0: All you need to know](https://okomojacob.herokuapp.com/#services)
-- [You are Important & so is your Mental Health!](https://ayushirawat.com/you-are-important-and-so-is-your-mental-health)
-</td>
-<td valign="top" width="45%">
-  
-### The Upcoming Developer Dictionary 🌱
-This is list of my upcoming blogs in my [Personal website](https://okomojacob.herokuapp.com/):
-- [The Ultimate Machine Learning Resource hub](https://okomojacob.herokuapp.com/)
-- [GitHub CLI 1.0: All you need to know](https://okomojacob.herokuapp.com/)
-- Mistakes to rectify to become a profitable prgramme.
-</td>
- <details>
-<summary>📊 Github Stats</summary>
-  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=okomojacob&show_icons=true&theme=gotham" alt="Okomo Jacob | Stats" />
-  
-</details>
-
- ![Visitor Count](https://profile-counter.glitch.me/{okomojacob}/count.svg)
- 
- 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
 [twitter]: https://twitter.com/okomojacob
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/okomo-jacob-622b86164/
