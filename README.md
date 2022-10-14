@@ -35,10 +35,6 @@
 ---
 
 <br>
-<div align="center">
-   
-  
-</div>
 
 ### Languages and Tools I'm Learnig:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
@@ -82,6 +78,7 @@
    <td><img height="190rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=okomojacob&layout=compact&langs_count=7&theme=tokyonight"/></td>
   </tr>   
 </table>
+
 ![Okomo Jacob's github activity graph](https://activity-graph.herokuapp.com/graph?username=okomojacob&theme=dracula)
 
 ### 🎧 Music is more than just sound to me, it's a feeling &nbsp;❤️&nbsp;.
