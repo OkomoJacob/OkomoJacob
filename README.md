@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=okomojacob&label=ProfileViewers&color=brightgreen)
  
 ## He codes and is good at
+![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 
 ## Hello, [Jacob Okello Okomo](https://okomojacob.herokuapp.com/) here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-### I'm a male 😄 Young Web Developer and a Machine Learning Enthusiast.
+### I'm a male 😄 Web and Mobile Developer.
 
 <p align="center">
   <b><i>Python | JavaScript | POSTGRESQL | HTML | CSS | Linux.</i></b>
@@ -33,6 +33,13 @@
 <br />
 
 ---
+
+<br>
+<div align="center">
+  <img height="190rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=JoyChristine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img height="190rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyChristine&layout=compact&langs_count=7&theme=tokyonight"/>
+<!--    <img height="400rem" width="400rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyChristine"/> -->
+</div>
 
 ### Languages and Tools I'm Learnig:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
