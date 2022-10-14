@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=okomojacob&label=ProfileViewers&color=brightgreen)
  
-## Hello, there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">. I'm [Jacob Okello Okomo](https://okomojacob.herokuapp.com/), and I'm addicted to code 😄, and in love with Web and Mobile Developement.
+## Hello, there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">. I'm [Jacob Okello Okomo](https://okomojacob.herokuapp.com/), addicted to code 😄, and I'm in love with Web and Mobile Developement.
 
 <p align="center">
   <b><i>Python | JavaScript | POSTGRESQL | HTML | CSS | Linux.</i></b>
